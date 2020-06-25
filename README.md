@@ -41,6 +41,19 @@ e0u10nxue90n09n9u10u9ne0uen0u2e1290eun0xu1eu290nex1092nuxe0ux102enux01u9enx0u2en
 
 The long string printed out at the end will be an `authentication key`. You can now add it to `auth_string` inside `config.toml`
 
+#### Checking to see if everything you need is in place
+
+```sh
+$ pipenv run python3 main.py
+```
+
+If everything works well, you should see a chat with `BotFather` where the content will be:
+
+```text
+Kenneth Lim: /newbot
+
+BotFather: Alright, a new bot. How are we going to call it? Please choose a name for your bot.
+```
 
 #### Useful Resources
 
