@@ -1,0 +1,8 @@
+[admin]
+bot_admin = ""
+
+[telegram]
+api_id= ""
+api_hash= ""
+auth_string = ""
+bot_under_test = ""
